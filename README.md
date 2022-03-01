@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sambhavkr00
+- 👋 Hi, I’m Sambhav Kumar
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning App Development using Flutter.
 - 💞️ Deep-Dive learning is my hobby.
