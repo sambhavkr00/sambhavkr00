@@ -10,7 +10,8 @@
 - 💬 Ask me about **DSA**
 
 - 📫 How to reach me **kumarsambhav00@gmail.com**
-
+<hr>
+<p align="left"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" height="300" width="400"></p>
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
