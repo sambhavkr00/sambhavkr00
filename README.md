@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Home Automation.**
 
-- 🌱 I’m currently learning **App development using Flutter.**
+- 🌱 I’m currently learning **App development using Flutter & DSA**
 
-- 📝 I regularly write articles on [Blogger](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)
+- 📝 I sometimes write articles on [Blogger](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)
 
 - 💬 Ask me about **DSA**
 
