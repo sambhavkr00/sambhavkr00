@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Home Automation.**
 
-- 🌱 I’m currently learning **App development using Flutter & DSA**
+- 🌱 Learning **Web development & DSA**
 
 - 📝 I sometimes write articles on [Blogger](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)
 
