@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <h1 align="left">Hi there, I am Sambhav Kumar</h1>
 <h3 align="left">ReactJs | NextJs | Learner | Passionate about Technology</h3>
 
@@ -15,7 +17,7 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://twitter.com/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambhavkr00" height="30" width="40" /></a>
+<a href="https://twitter.com/sambhavkr00" target="blank"><i class="fa-brands fa-x-twitter"></i></a>
 <a href="https://linkedin.com/in/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambhavkr00" height="30" width="40" /></a>
 <a href="https://instagram.com/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sambhavkr00" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sambhavkr00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sambhavkr00" height="30" width="40" /></a>
