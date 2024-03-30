@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I am Sambhav Kumar</h1>
-<h3 align="left">Learner | Passionate about Technology | Coder</h3>
+<h3 align="left">ReactJs | NextJs | Learner | Passionate about Technology</h3>
 
-- 🔭 I’m currently working on **Home Automation.**
+- 🔭 I’m currently working on **Web Development using NextJs**
 
 - 🌱 Learning **Web development & DSA**
 
