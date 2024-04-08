@@ -8,12 +8,11 @@
 
 - 📖 Learning **Web Development & DSA**
 
-- 📝 I sometimes write articles on **[<img alt="Blogger" src="https://img.shields.io/badge/Blogger-%23FF5722?style=flat-square&logo=blogger&logoColor=white&color=%23FF5722" height="15">](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)**
+- 📝 I sometimes write articles on **[<img alt="Blogger" src="https://img.shields.io/badge/Blogger-%23FF5722?style=flat-square&logo=blogger&logoColor=white&color=%23FF5722" height="15" />](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)**
 
 - 💬 Ask me about **DSA**
 
-- 📧 Reach me at <a href="mailto:kumarsambhav00@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23FFFFFF?style=flat-square&logo=gmail&logoColor=red&color=%23FFFFFF" height="15"></a>
-
+- 📧 Reach me at <a href="mailto:kumarsambhav00@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23FFFFFF?style=flat-square&logo=gmail&logoColor=red&color=%23FFFFFF" height="15" /></a>
 
 ## 🌐 Social:
 
@@ -22,6 +21,7 @@
   <a href="https://instagram.com/sambhavkr00" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&color=%23E4405F" height="25" /></a>
   <a href="https://twitter.com/sambhavkr00" target="blank"><img alt="X" src="https://img.shields.io/badge/Twitter-%23000000?style=flat-square&logo=X&logoColor=white&color=%23000000" height="25" /></a>
   <a href="https://fb.com/sambhavkr00" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat-square&logo=facebook&logoColor=white&color=%230866FF" height="25" /></a>
+  <a href="https://github.com/sambhavkr00" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sambhavkr00?style=flat-square&logo=Github&logoColor=white&label=GitHub&labelColor=black&color=blue" height="25" /></a>
 </div>
 
 ## 💻 Languages and Tools:
