@@ -6,7 +6,7 @@
 
 - 🌱 Learning **Web Development & DSA**
 
-- 📝 I sometimes write articles on [Blogger](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)
+- 📝 I sometimes write articles on **[Blogger](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)**
 
 - 💬 Ask me about **DSA**
 
@@ -15,19 +15,19 @@
 ## 🌐Social:
 
 <p>
-  <a href="https://linkedin.com/in/sambhavkr00" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&color=%230A66C2" height="30" /></a>
-  <a href="https://instagram.com/sambhavkr00" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&color=%23E4405F" height="30" /></a>
-  <a href="https://twitter.com/sambhavkr00" target="blank"><img alt="X" src="https://img.shields.io/badge/Twitter-%23000000?style=flat-square&logo=X&logoColor=white&color=%23000000" height="30" /></a>
-  <a href="https://fb.com/sambhavkr00" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat-square&logo=facebook&logoColor=white&color=%230866FF" height="30" /></a>
+  <a href="https://linkedin.com/in/sambhavkr00" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&color=%230A66C2" height="25" /></a>
+  <a href="https://instagram.com/sambhavkr00" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&color=%23E4405F" height="25" /></a>
+  <a href="https://twitter.com/sambhavkr00" target="blank"><img alt="X" src="https://img.shields.io/badge/Twitter-%23000000?style=flat-square&logo=X&logoColor=white&color=%23000000" height="25" /></a>
+  <a href="https://fb.com/sambhavkr00" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat-square&logo=facebook&logoColor=white&color=%230866FF" height="25" /></a>
 </p>
 
 
 ## 👨‍💻Coding Profiles:
 
 <p>
-  <a href="https://www.codechef.com/users/sambhavkr00" target="blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white&color=%235B4638" height="30" /></a>
-  <a href="https://codeforces.com/profile/sambhavkr00" target="blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=flat-square&logo=codeforces&logoColor=white&color=%231F8ACB" height="30" /></a>
-  <a href="https://www.leetcode.com/sambhavkr00" target="blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white&color=%23FFA116" height="30" /></a>
+  <a href="https://www.codechef.com/users/sambhavkr00" target="blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white&color=%235B4638" height="25" /></a>
+  <a href="https://codeforces.com/profile/sambhavkr00" target="blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=flat-square&logo=codeforces&logoColor=white&color=%231F8ACB" height="25" /></a>
+  <a href="https://www.leetcode.com/sambhavkr00" target="blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white&color=%23FFA116" height="25" /></a>
 </p>
 
 ## 💻Languages and Tools:
