@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **kumarsambhav00@gmail.com**
 
-## 🌐Social:
+## 🌐 Social:
 
 <p>
   <a href="https://linkedin.com/in/sambhavkr00" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&color=%230A66C2" height="25" /></a>
@@ -22,7 +22,7 @@
 </p>
 
 
-## 👨‍💻Coding Profiles:
+## 👨‍💻 Coding Profiles:
 
 <p>
   <a href="https://www.codechef.com/users/sambhavkr00" target="blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white&color=%235B4638" height="25" /></a>
@@ -30,7 +30,7 @@
   <a href="https://www.leetcode.com/sambhavkr00" target="blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white&color=%23FFA116" height="25" /></a>
 </p>
 
-## 💻Languages and Tools:
+## 💻 Languages and Tools:
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=%2300599C" height="30" />
@@ -49,11 +49,11 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B" height="30" />
 </p>
 
-## 📈GitHub Stats:
+## 📈 GitHub Stats:
 
 ![sambhavkr00's Stats](https://github-readme-stats.vercel.app/api?username=sambhavkr00&theme=dark&show_icons=true&hide_border=false&count_private=true) <br>
 ![sambhavkr00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhavkr00&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-## 👁️Viewers:
+## 👁️ Viewers:
 
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=sambhavkr00&label=Profile%20Views&color=1&icon=0&pretty=false" alt="profile views" height="30" /></a>
