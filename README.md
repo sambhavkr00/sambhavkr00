@@ -1,8 +1,8 @@
 # 👋 I am Sambhav Kumar
 
-> React.js | Next.js | Node.js | JavaScript | C++
+> Full-Stack Developer
 
-- 📍 India
+- 📍 From India
 
 - 🔎 I’m currently working with **NextJs**
 
