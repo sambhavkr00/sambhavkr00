@@ -34,16 +34,16 @@
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=%2300599C" height="30" />
-  <img alt="ReactJs" src="https://img.shields.io/badge/React.Js-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB" height="30" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/React.Js-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB" height="30" />
   <img alt="NextJs" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000" height="30" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26" height="30" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white&color=%23F7DF1E" height="30" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black&color=%23F7DF1E" height="30" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&color=%231572B6" height="30" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933" height="30" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&color=%23F05032" height="30" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&color=%23181717" height="30" />
-  <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&color=%23A8B9CC" height="30" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&color=%234479A1" height="30" />
+  <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black&color=%23A8B9CC" height="30" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=black&color=%234479A1" height="30" />
   <img alt="Android" src="https://img.shields.io/badge/Android-%2334A853?style=for-the-badge&logo=android&logoColor=white&color=%2334A853" height="30" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&color=%230175C2" height="30" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B" height="30" />
