@@ -27,7 +27,7 @@
 <p>
   <a href="https://www.codechef.com/users/sambhavkr00" target="blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white&color=%235B4638" height="30" /></a>
   <a href="https://codeforces.com/profile/sambhavkr00" target="blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=flat-square&logo=codeforces&logoColor=white&color=%231F8ACB" height="30" /></a>
-  <a href="https://www.leetcode.com/sambhavkr00" target="blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white&color=%23FFA116" height="30" /></a><br><br>
+  <a href="https://www.leetcode.com/sambhavkr00" target="blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white&color=%23FFA116" height="30" /></a>
 </p>
 
 ## 💻Languages and Tools:
@@ -51,8 +51,7 @@
 
 ## 📈GitHub Stats:
 
-![sambhavkr00's Stats](https://github-readme-stats.vercel.app/api?username=sambhavkr00&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
+![sambhavkr00's Stats](https://github-readme-stats.vercel.app/api?username=sambhavkr00&theme=dark&show_icons=true&hide_border=false&count_private=true) <br>
 ![sambhavkr00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhavkr00&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 👁️Viewers:
