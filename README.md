@@ -42,6 +42,7 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&color=%2300878F" height="30">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=black&color=%234479A1" height="30" />
   <img alt="Android" src="https://img.shields.io/badge/Android-%2334A853?style=for-the-badge&logo=android&logoColor=white&color=%2334A853" height="30" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white&color=%23000000" height="30" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&color=%230175C2" height="30" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B" height="30" />
 </div>
