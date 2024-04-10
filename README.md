@@ -34,6 +34,7 @@
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black&color=%23F7DF1E" height="30" />
       <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black&color=%23A8B9CC" height="30" />
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26" height="30" />
+      <img alt="EJS" src="https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoColor=black&color=%23B4CA65" height="30" />
       <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&color=%230175C2" height="30" />
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=black&color=%234479A1" height="30" />
     </td>
@@ -55,7 +56,6 @@
       <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=%23007ACC" height="30">
       <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&color=%23F05032" height="30" />
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&color=%23181717" height="30" />
-      <img alt="Static Badge" src="https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoColor=black&color=%23B4CA65" height="30" />
       <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&color=%2300878F" height="30">
       <img alt="Android" src="https://img.shields.io/badge/Android-%2334A853?style=for-the-badge&logo=android&logoColor=white&color=%2334A853" height="30" />
       <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white&color=%23000000" height="30" /> 
