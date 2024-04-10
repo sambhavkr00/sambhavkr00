@@ -55,6 +55,7 @@
       <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=%23007ACC" height="30">
       <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&color=%23F05032" height="30" />
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&color=%23181717" height="30" />
+      <img alt="Static Badge" src="https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoColor=black&color=%23B4CA65" height="30" />
       <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&color=%2300878F" height="30">
       <img alt="Android" src="https://img.shields.io/badge/Android-%2334A853?style=for-the-badge&logo=android&logoColor=white&color=%2334A853" height="30" />
       <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white&color=%23000000" height="30" /> 
