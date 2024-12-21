@@ -4,13 +4,13 @@
 
 - 📍 From India
 
-- 🔎 I’m currently working with **NextJs**
+- 🔎 I’m currently working in **Infosys**
 
 - 📖 Learning **Web Development & DSA**
 
 - 📝 I sometimes write articles on **[<img alt="Blogger" src="https://img.shields.io/badge/Blogger-%23FF5722?style=flat-square&logo=blogger&logoColor=white&color=%23FF5722" height="15" />](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **MEAN**
 
 - 📧 Reach me at <a href="mailto:kumarsambhav00@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23FFFFFF?style=flat-square&logo=gmail&logoColor=red&color=%23FFFFFF" height="15" /></a>
 
@@ -43,7 +43,7 @@
     <td><b>Frameworks/Libraries</b></td>
     <td>
       <img alt="ReactJs" src="https://img.shields.io/badge/React.Js-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB" height="30" />
-      <img alt="NextJs" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000" height="30" />
+      <img alt="Angular" src="https://img.shields.io/badge/angular-%230F0F11?style=for-the-badge&logo=angular&logoColor=white&color=%0F0F11" height="30">
       <img alt="npm" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white&color=%23CB3837" height="30">
       <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&color=%231572B6" height="30" />
       <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933" height="30" />
