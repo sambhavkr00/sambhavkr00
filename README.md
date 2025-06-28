@@ -6,9 +6,7 @@
 
 - 🔎 I’m currently working in **Infosys**
 
-- 📖 Learning **Web Development & DSA**
-
-- 📝 I sometimes write articles on **[<img alt="Blogger" src="https://img.shields.io/badge/Blogger-%23FF5722?style=flat-square&logo=blogger&logoColor=white&color=%23FF5722" height="15" />](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)**
+- 📖 Learning **Web Development, AI & DSA**
 
 - 💬 Ask me about **MEAN**
 
